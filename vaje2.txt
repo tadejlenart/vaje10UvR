@@ -1,0 +1,5 @@
+poljubna
+vsebina
+datoteke
+vaje2
+.txt
